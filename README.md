@@ -9,3 +9,5 @@ If you want to use this GPU list, make sure you enter both the ID and the string
 
 For help with this/anti bot apis:
 discord.gg/parallaxapis
+
+Goodnight kiss if you ⭐ and if you need more help feel free to contact me on discord pxCaptcha or on Twitter [@pxCaptcha](https://twitter.com/pxCaptcha)
