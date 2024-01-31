@@ -7,5 +7,5 @@ Chrome formats as: ANGLE (NVIDIA, NVIDIA **GeForce RTX 4060 (0x00002717**) Direc
 
 If you want to use this GPU list, make sure you enter both the ID and the string correctly, as some cannot be entered only in the bold part to work.
 
-For help with thi/anti bot apis:
+For help with this/anti bot apis:
 discord.gg/parallaxapis
