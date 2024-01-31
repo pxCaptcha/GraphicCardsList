@@ -1,0 +1,505 @@
+ID: 28B8, Device: GeForce RTX 4060 Max-Q / Mobile
+ID: 28E1, Device: GeForce RTX 4050 Max-Q / Mobile
+ID: 2820, Device: GeForce RTX 4070 Max-Q / Mobile
+ID: 2838, Device: GeForce RTX 4070 Max-Q / Mobile
+ID: 2882, Device: GeForce RTX 4060
+ID: 28A0, Device: GeForce RTX 4060 Max-Q / Mobile
+ID: 28A1, Device: GeForce RTX 4050 Max-Q / Mobile
+ID: 27B0, Device: GeForce RTX 4080 Max-Q / Mobile
+ID: 2803, Device: GeForce RTX 4060 Ti
+ID: 2805, Device: GeForce RTX 4060 Ti 16GB       
+ID: 26F5, Device: GeForce RTX 4080
+ID: 2717, Device: GeForce RTX 4090 Laptop GPU    
+ID: 2730, Device: GeForce RTX 4070 Ti
+ID: 2785, Device: GeForce RTX 4070
+ID: 27A0, Device: GeForce RTX 4080 Max-Q / Mobile
+ID: 25FA, Device: GeForce RTX 4090
+ID: 26B1, Device: GeForce RTX 3050 Ti Mobile     
+ID: 25E2, Device: GeForce RTX 3050 Mobile        
+ID: 25E5, Device: GeForce RTX 3050 Mobile        
+ID: 25F9, Device: GeForce RTX 3050 6GB Laptop GPU
+ID: 25ED, Device: GeForce RTX 2050
+ID: 25BB, Device: GeForce RTX 3050 4GB Laptop GPU
+ID: 25AC, Device: GeForce RTX 3050 6GB Laptop GPU
+ID: 25AD, Device: GeForce RTX 2050
+ID: 25AF, Device: GeForce RTX 3050 Engineering Sample
+ID: 25A2, Device: GeForce RTX 3050 Mobile
+ID: 25A4, Device: GeForce RTX 3050 Mobile
+ID: 25A3, Device: GeForce MX570
+ID: 25A7, Device: GeForce MX570
+ID: 25A9, Device: GeForce RTX 2050
+ID: 25AA, Device: GeForce MX570 A
+ID: 2563, Device: GeForce RTX 3050 Ti Mobile / Max-Q
+ID: 25A0, Device: GeForce RTX 3050 Ti Mobile
+ID: 2531, Device: GeForce RTX 3060
+ID: 2561, Device: GeForce RTX 3060 Laptop GPU
+ID: 2582, Device: GeForce RTX 3050 8GB
+ID: 2560, Device: GeForce RTX 3060 Mobile / Max-Q
+ID: 2583, Device: GeForce RTX 3050 4GB
+ID: 2523, Device: GeForce RTX 3050 Ti Mobile / Max-Q
+ID: 2508, Device: GeForce RTX 3050 OEM
+ID: 2507, Device: GeForce RTX 3060 12GB Rev. 2
+ID: 2521, Device: GeForce RTX 3060 Laptop GPU
+ID: 2505, Device: GeForce RTX 3060 Mobile / Max-Q
+ID: 252F, Device: GeForce RTX 3060 Engineering Sample
+ID: 2504, Device: GeForce RTX 3060 Lite Hash Rate
+ID: 24E0, Device: GeForce RTX 3070 Mobile / Max-Q
+ID: 2501, Device: GeForce RTX 3060
+ID: 2503, Device: GeForce RTX 3060
+ID: 24B8, Device: GeForce RTX 3060 8GB
+ID: 24C8, Device: GeForce RTX 3070 GDDR6X
+ID: 24C9, Device: GeForce RTX 3060 Ti GDDR6X
+ID: 24BF, Device: GeForce RTX 3070 Engineering Sample
+ID: 24DC, Device: GeForce RTX 3080 Mobile / Max-Q 8GB/16GB
+ID: 24B0, Device: GeForce RTX 3060 Engineering Sample
+ID: 24AF, Device: GeForce RTX 3070 Engineering Sample
+ID: 24A0, Device: GeForce RTX 3080 Mobile / Max-Q 8GB/16GB
+ID: 249D, Device: GeForce RTX 3070 Mobile / Max-Q
+ID: 24AC, Device: GeForce RTX 30x0 Engineering Sample
+ID: 2489, Device: GeForce RTX 3060 Ti Lite Hash Rate
+ID: 248A, Device: GeForce RTX 3080 Ti Laptop GPU
+ID: 2482, Device: GeForce RTX 3070 Ti
+ID: 2484, Device: GeForce RTX 3070
+ID: 2486, Device: GeForce RTX 3060 Ti
+ID: 2483, Device: GeForce RTX 3060
+ID: 2488, Device: GeForce RTX 3070 Lite Hash Rate
+ID: 2414, Device: GeForce RTX 3060 Ti
+ID: 2438, Device: GeForce RTX 3080 Ti Mobile
+ID: 2336, Device: GeForce RTX 3080 12GB
+ID: 222B, Device: GeForce RTX 3090 Engineering Sample
+ID: 222F, Device: GeForce RTX 3080 11GB / 12GB Engineering Sample
+ID: 2230, Device: GeForce RTX 3080 Lite Hash Rate
+ID: 2231, Device: GeForce RTX 3070 Ti
+ID: 2204, Device: GeForce RTX 3090
+ID: 2205, Device: GeForce RTX 3080 Ti 20GB
+ID: 2206, Device: GeForce RTX 3080
+ID: 2208, Device: GeForce RTX 3080 Ti
+ID: 21C4, Device: GeForce GTX 1660 SUPER
+ID: 21D1, Device: GeForce GTX 1660 Ti Mobile
+ID: 2203, Device: GeForce RTX 3090 Ti
+ID: 21C2, Device: GeForce GTX 1650
+ID: 2191, Device: GeForce GTX 1660 Ti Mobile
+ID: 2192, Device: GeForce GTX 1650 Ti Mobile
+ID: 21AE, Device: GeForce GTX 1660 Ti
+ID: 2183, Device: GeForce GTX 1660
+ID: 2187, Device: GeForce GTX 1650 SUPER
+ID: 20FF, Device: GeForce GTX 1650 Mobile Refresh
+ID: 1FF9, Device: GeForce GTX 1650 Mobile Refresh
+ID: 1FB8, Device: GeForce MX550
+ID: 1FA0, Device: GeForce MX550
+ID: 1FA1, Device: GeForce MX450
+ID: 1F9C, Device: GeForce MX450
+ID: 1F9D, Device: GeForce GTX 1650 Mobile / Max-Q
+ID: 1F92, Device: GeForce GTX 1650 Mobile
+ID: 1F94, Device: GeForce GTX 1650 Mobile
+ID: 1F95, Device: GeForce GTX 1650 Ti Mobile
+ID: 1F96, Device: GeForce GTX 1650 Mobile / Max-Q
+ID: 1F97, Device: GeForce MX450
+ID: 1F55, Device: GeForce RTX 2060 Mobile
+ID: 1F81, Device: GeForce GTX 1650
+ID: 1F91, Device: GeForce GTX 1650 Mobile / Max-Q
+ID: 1F83, Device: GeForce GTX 1630
+ID: 1F76, Device: GeForce RTX 2060 SUPER
+ID: 1F47, Device: GeForce RTX 2060 SUPER
+ID: 1F50, Device: GeForce RTX 2070 Mobile / Max-Q
+ID: 1F51, Device: GeForce RTX 2060 Mobile
+ID: 1F54, Device: GeForce RTX 2070 Mobile
+ID: 1F10, Device: GeForce RTX 2070 Mobile
+ID: 1F11, Device: GeForce RTX 2060 Mobile
+ID: 1F12, Device: GeForce RTX 2060 Max-Q
+ID: 1F14, Device: GeForce RTX 2070 Mobile / Max-Q Refresh
+ID: 1F15, Device: GeForce RTX 2060 Mobile
+ID: 1F2E, Device: GeForce RTX 2060 SUPER
+ID: 1F07, Device: GeForce RTX 2070 Rev. A
+ID: 1F08, Device: GeForce RTX 2060 Rev. A
+ID: 1F09, Device: GeForce GTX 1660 SUPER
+ID: 1F0A, Device: GeForce GTX 1650
+ID: 1ED3, Device: GeForce RTX 2080 SUPER Mobile / Max-Q
+ID: 1F02, Device: GeForce RTX 2070
+ID: 1F04, Device: GeForce RTX 2060 12GB
+ID: 1EF5, Device: GeForce RTX 2070 SUPER
+ID: 1EC7, Device: GeForce RTX 2070 SUPER
+ID: 1ED0, Device: GeForce RTX 2080 Mobile
+ID: 1ED1, Device: GeForce RTX 2070 SUPER Mobile / Max-Q
+ID: 1EBA, Device: GeForce GTX 2080 Engineering Sample
+ID: 1EB0, Device: GeForce RTX 2070 SUPER
+ID: 1E87, Device: GeForce RTX 2080 Rev. A
+ID: 1E89, Device: GeForce RTX 2060
+ID: 1E90, Device: GeForce RTX 2080 Mobile
+ID: 1E91, Device: GeForce RTX 2070 SUPER Mobile / Max-Q
+ID: 1E93, Device: GeForce RTX 2080 SUPER Mobile / Max-Q
+ID: 1E37, Device: GeForce RTX 2080 SUPER
+ID: 1E82, Device: GeForce RTX 2080
+ID: 1E04, Device: GeForce RTX 2080 Ti
+ID: 1E07, Device: GeForce RTX 2080 Ti Rev. A
+ID: 1E2D, Device: GeForce RTX 2080 Ti Engineering Sample
+ID: 1E2E, Device: GeForce RTX 2080 Ti 12GB Engineering Sample
+ID: 1E30, Device: GeForce RTX 2080 Ti 12GB
+ID: 1DB4, Device: GeForce MX250
+ID: 1D56, Device: GeForce MX330
+ID: 1D81, Device: GeForce MX150
+ID: 1D11, Device: GeForce MX230
+ID: 1D12, Device: GeForce MX150
+ID: 1D13, Device: GeForce MX250
+ID: 1D16, Device: GeForce MX330
+ID: 1D33, Device: GeForce GTX 1050 Ti Mobile
+ID: 1CCD, Device: GeForce GTX 1050 Mobile
+ID: 1CFA, Device: GeForce GT 1030
+ID: 1D02, Device: GeForce GT 1010
+ID: 1CB6, Device: GeForce GTX 1050 Mobile
+ID: 1C94, Device: GeForce MX350
+ID: 1C96, Device: GeForce MX350
+ID: 1CA7, Device: GeForce GTX 1050 3GB
+ID: 1C8C, Device: GeForce GTX 1050 Ti Mobile
+ID: 1C8D, Device: GeForce GTX 1050 Mobile
+ID: 1C8E, Device: GeForce GTX 1050 Ti Max-Q
+ID: 1C90, Device: GeForce MX150
+ID: 1C91, Device: GeForce GTX 1050 3 GB Max-Q
+ID: 1C60, Device: GeForce GTX 1060 Mobile 6GB
+ID: 1C61, Device: GeForce GTX 1050 Ti Mobile
+ID: 1C62, Device: GeForce GTX 1050 Mobile
+ID: 1C70, Device: GeForce GTX 1050
+ID: 1C82, Device: GeForce GTX 1050 Ti
+ID: 1C36, Device: GeForce GTX 1050 Ti Mobile
+ID: 1C22, Device: GeForce GTX 1050 Mobile
+ID: 1C23, Device: GeForce GTX 1060 Mobile Rev. 2
+ID: 1C2D, Device: GeForce GTX 1060 6GB
+ID: 1C04, Device: GeForce GTX 1060 5GB
+ID: 1C06, Device: GeForce GTX 1060 6GB Rev. 2
+ID: 1C07, Device: GeForce GTX 1060 Mobile
+ID: 1BC7, Device: GeForce GTX 1080 Mobile
+ID: 1BE1, Device: GeForce GTX 1070 Mobile
+ID: 1C00, Device: GeForce GTX 1060 3GB
+ID: 1BB5, Device: GeForce GTX 1070 Engineering Sample
+ID: 1BB0, Device: GeForce GTX 1060 6GB
+ID: 1B84, Device: GeForce GTX 1060 3GB
+ID: 1B87, Device: GeForce GTX 1080 Mobile
+ID: 1BA1, Device: GeForce GTX 1070 Mobile
+ID: 1BA2, Device: GeForce GTX 1070 Mobile
+ID: 1BA9, Device: GeForce GTX 1080
+ID: 1B81, Device: GeForce GTX 1070
+ID: 1B82, Device: GeForce GTX 1070 Ti
+ID: 1B39, Device: GeForce GTX 1080 Ti
+ID: 1B07, Device: GeForce GTX 1080 Ti 10GB
+ID: 1AEF, Device: GeForce GTX TITAN X
+ID: 17C8, Device: GeForce GTX 980 Ti
+ID: 17F0, Device: GeForce GTX 965M
+ID: 1725, Device: GeForce MX130
+ID: 174E, Device: GeForce MX110
+ID: 1789, Device: GeForce 940MX
+ID: 15F9, Device: GeForce GTX 980M
+ID: 1618, Device: GeForce GTX 970M
+ID: 1619, Device: GeForce GTX 965M
+ID: 161A, Device: GeForce GTX 980 Mobile
+ID: 1430, Device: GeForce GTX 960
+ID: 1402, Device: GeForce GTX 950
+ID: 1406, Device: GeForce GTX 960 OEM
+ID: 1407, Device: GeForce GTX 750 v2
+ID: 1427, Device: GeForce GTX 965M
+ID: 1404, Device: GeForce GTX 960 FAKE
+ID: 13F1, Device: GeForce GTX 980M
+ID: 13D8, Device: GeForce GTX 960 OEM / 970M
+ID: 13D9, Device: GeForce GTX 965M
+ID: 13DA, Device: GeForce GTX 980 Mobile
+ID: 13E7, Device: GeForce GTX 980 Engineering Sample
+ID: 13F0, Device: GeForce GTX 980
+ID: 13C1, Device: GeForce GTX 970
+ID: 13B1, Device: GeForce 845M
+ID: 1399, Device: GeForce 945M
+ID: 139A, Device: GeForce GTX 950M
+ID: 139B, Device: GeForce GTX 960M
+ID: 139C, Device: GeForce 940M
+ID: 139D, Device: GeForce GTX 750 Ti
+ID: 13B0, Device: GeForce GTX 750
+ID: 1382, Device: GeForce GTX 745
+ID: 1389, Device: GeForce 845M
+ID: 1391, Device: GeForce GTX 850M
+ID: 1392, Device: GeForce GTX 860M
+ID: 1393, Device: GeForce 840M
+ID: 134D, Device: GeForce 940MX
+ID: 134E, Device: GeForce 930MX
+ID: 134F, Device: GeForce 920MX
+ID: 137A, Device: GeForce 940A
+ID: 1380, Device: GeForce GTX 750 Ti
+ID: 1344, Device: GeForce 845M
+ID: 1346, Device: GeForce 930M
+ID: 1347, Device: GeForce 940M
+ID: 1348, Device: GeForce 945M / 945A
+ID: 1349, Device: GeForce 930M
+ID: 134B, Device: GeForce 940MX
+ID: 1299, Device: GeForce 920M
+ID: 129A, Device: GeForce 910M
+ID: 12A0, Device: GeForce 830M
+ID: 1341, Device: GeForce 840M
+ID: 1290, Device: GeForce GT 730M
+ID: 1291, Device: GeForce GT 735M
+ID: 1292, Device: GeForce GT 740M
+ID: 1293, Device: GeForce GT 730M
+ID: 1294, Device: GeForce GT 740M
+ID: 1295, Device: GeForce 710M
+ID: 1296, Device: GeForce 825M
+ID: 1298, Device: GeForce GT 720M
+ID: 1286, Device: GeForce GT 720
+ID: 1287, Device: GeForce GT 730
+ID: 1288, Device: GeForce GT 720
+ID: 1289, Device: GeForce GT 710
+ID: 128A, Device: GeForce GT 710
+ID: 128C, Device: GeForce GT 640 OEM
+ID: 124D, Device: GeForce GT 555M/635M
+ID: 1251, Device: GeForce GT 560M
+ID: 1280, Device: GeForce GT 635
+ID: 1281, Device: GeForce GT 710
+ID: 1282, Device: GeForce GT 640 Rev. 2
+ID: 1284, Device: GeForce GT 630 Rev. 2
+ID: 1245, Device: GeForce GTS 450 Rev. 2
+ID: 1246, Device: GeForce GT 550M
+ID: 1247, Device: GeForce GT 555M/635M
+ID: 1248, Device: GeForce GT 555M/635M
+ID: 1249, Device: GeForce GTS 450 Rev. 3
+ID: 1212, Device: GeForce GTX 675M
+ID: 1213, Device: GeForce GTX 670M
+ID: 1241, Device: GeForce GT 545 OEM
+ID: 1243, Device: GeForce GT 545
+ID: 1244, Device: GeForce GTX 550 Ti
+ID: 1206, Device: GeForce GTX 555
+ID: 1207, Device: GeForce GT 645 OEM
+ID: 1208, Device: GeForce GTX 560 SE
+ID: 1210, Device: GeForce GTX 570M
+ID: 1211, Device: GeForce GTX 580M
+ID: 1200, Device: GeForce GTX 560 Ti
+ID: 1201, Device: GeForce GTX 560
+ID: 1202, Device: GeForce GTX 560 Ti OEM
+ID: 1203, Device: GeForce GTX 460 SE v2
+ID: 1205, Device: GeForce GTX 460 v2
+ID: 11E2, Device: GeForce GTX 765M
+ID: 11E3, Device: GeForce GTX 760M
+ID: 11E7, Device: GeForce GTX 750 Ti
+ID: 11C8, Device: GeForce GTX 650 OEM
+ID: 11CB, Device: GeForce GT 740
+ID: 11E0, Device: GeForce GTX 770M
+ID: 11E1, Device: GeForce GTX 765M
+ID: 11C3, Device: GeForce GTX 650 Ti OEM
+ID: 11C4, Device: GeForce GTX 645 OEM
+ID: 11C5, Device: GeForce GT 740
+ID: 11C6, Device: GeForce GTX 650 Ti
+ID: 11BE, Device: GeForce GTX 660
+ID: 11C2, Device: GeForce GTX 650 Ti Boost
+ID: 11BA, Device: GeForce GTX 680MX
+ID: 11A7, Device: GeForce GTX 675MX
+ID: 11A9, Device: GeForce GTX 870M
+ID: 11AF, Device: GeForce GTX 780M
+ID: 11A0, Device: GeForce GTX 680M
+ID: 11A1, Device: GeForce GTX 670MX
+ID: 11A2, Device: GeForce GTX 675MX Mac Edition
+ID: 1199, Device: GeForce GTX 870M
+ID: 119A, Device: GeForce GTX 860M
+ID: 119D, Device: GeForce GTX 775M Mac Edition
+ID: 119E, Device: GeForce GTX 780M Mac Edition
+ID: 118F, Device: GeForce GTX 760 Rev. 2
+ID: 1193, Device: GeForce GTX 760 Ti OEM
+ID: 1194, Device: GeForce GTX 660 Rev. 2
+ID: 1198, Device: GeForce GTX 880M
+ID: 1188, Device: GeForce GTX 690
+ID: 1189, Device: GeForce GTX 670
+ID: 118A, Device: GeForce USM
+ID: 118C, Device: GeForce GTX 760 OEM
+ID: 1186, Device: GeForce GTX 660 Ti
+ID: 1184, Device: GeForce GTX 770
+ID: 1185, Device: GeForce GTX 660 OEM
+ID: 1187, Device: GeForce GTX 760
+ID: 1140, Device: GeForce 610M/710M/810M/820M / GT 620M/625M/630M/720M
+ID: 1180, Device: GeForce GTX 680
+ID: 1182, Device: GeForce GTX 760 Ti
+ID: 1183, Device: GeForce GTX 660 Ti
+ID: 10F1, Device: GeForce 8400 GS Rev. 3
+ID: 10C5, Device: GeForce 405
+ID: 10D8, Device: GeForce GTX 580
+ID: 108E, Device: GeForce 9300 GS Rev. 2
+ID: 1082, Device: GeForce GTX 560 Ti OEM
+ID: 1084, Device: GeForce GTX 560 OEM
+ID: 1086, Device: GeForce GTX 570 Rev. 2
+ID: 1087, Device: GeForce GTX 560 Ti 448 Cores
+ID: 1088, Device: GeForce GTX 590
+ID: 1089, Device: GeForce GTX 580 Rev. 2
+ID: 105A, Device: GeForce 610M
+ID: 105B, Device: GeForce 705M
+ID: 107C, Device: GeForce GTX 580
+ID: 1081, Device: GeForce GTX 570
+ID: 1052, Device: GeForce GT 520M
+ID: 1054, Device: GeForce 410M
+ID: 1055, Device: GeForce 410M
+ID: 1056, Device: GeForce 610M
+ID: 1059, Device: GeForce 610M
+ID: 1049, Device: GeForce GT 620 OEM
+ID: 104A, Device: GeForce GT 610
+ID: 104B, Device: GeForce GT 625 OEM
+ID: 104C, Device: GeForce GT 705
+ID: 104D, Device: GeForce GT 710
+ID: 1050, Device: GeForce GT 520M
+ID: 1051, Device: GeForce GT 520MX
+ID: 103F, Device: GeForce GT 520
+ID: 1042, Device: GeForce 510
+ID: 1045, Device: GeForce 605
+ID: 1029, Device: GeForce GTX TITAN Black
+ID: 101E, Device: GeForce GTX TITAN Z
+ID: 1003, Device: GeForce GTX Titan LE
+ID: 1004, Device: GeForce GTX 780
+ID: 1005, Device: GeForce GTX TITAN
+ID: 1007, Device: GeForce GTX 780 Rev. 2
+ID: 1008, Device: GeForce GTX 780 Ti 6GB
+ID: 100A, Device: GeForce GTX 780 Ti
+ID: 0FF8, Device: GeForce GT 755M Mac Edition
+ID: 0FEC, Device: GeForce 710A
+ID: 0FED, Device: GeForce 820M
+ID: 0FEE, Device: GeForce 810M
+ID: 0FEF, Device: GeForce GT 745M
+ID: 0FE4, Device: GeForce GT 750M
+ID: 0FE5, Device: GeForce K340 USM
+ID: 0FE6, Device: GeForce GT 750M Mac Edition
+ID: 0FD9, Device: GeForce GT 645M
+ID: 0FDB, Device: GeForce GT 740M
+ID: 0FE0, Device: GeForce GTX 660M Mac Edition
+ID: 0FE1, Device: GeForce GT 730M
+ID: 0FE2, Device: GeForce GT 745M
+ID: 0FD1, Device: GeForce GT 650M
+ID: 0FD2, Device: GeForce GT 640M
+ID: 0FD3, Device: GeForce GT 640M LE
+ID: 0FD4, Device: GeForce GTX 660M
+ID: 0FD5, Device: GeForce GT 650M Mac Edition
+ID: 0FD6, Device: GeForce GT 640M Mac Edition
+ID: 0FC5, Device: GeForce GT 1030
+ID: 0FC6, Device: GeForce GTX 650
+ID: 0FC8, Device: GeForce GT 740
+ID: 0FC9, Device: GeForce GT 730
+ID: 0FCD, Device: GeForce GT 755M
+ID: 0FCE, Device: GeForce GT 640M LE
+ID: 0FB9, Device: GeForce 940MX
+ID: 0FC0, Device: GeForce GT 640 OEM
+ID: 0FC1, Device: GeForce GT 640
+ID: 0FC2, Device: GeForce GT 630 OEM
+ID: 0F00, Device: GeForce GT 630
+ID: 0F01, Device: GeForce GT 620
+ID: 0F02, Device: GeForce GT 730
+ID: 0F03, Device: GeForce GT 610
+ID: 0F06, Device: GeForce GT 730
+ID: 0FB0, Device: GeForce GTX 460
+ID: 0E23, Device: GeForce GTX 460 SE
+ID: 0E24, Device: GeForce GTX 460 OEM
+ID: 0E30, Device: GeForce GTX 470M
+ID: 0E31, Device: GeForce GTX 485M
+ID: 0E3A, Device: GeForce GT 435M
+ID: 0DF3, Device: GeForce GT 420M
+ID: 0DF4, Device: GeForce GT 540M
+ID: 0DF5, Device: GeForce GT 525M
+ID: 0DF6, Device: GeForce GT 550M
+ID: 0DF7, Device: GeForce GT 520M
+ID: 0DEA, Device: GeForce 610M
+ID: 0DEB, Device: GeForce GT 555M
+ID: 0DEC, Device: GeForce GT 525M
+ID: 0DED, Device: GeForce GT 520M
+ID: 0DEE, Device: GeForce GT 415M
+ID: 0DEF, Device: GeForce GT 425M
+ID: 0DF1, Device: GeForce GT 420M
+ID: 0DE2, Device: GeForce GT 420
+ID: 0DE3, Device: GeForce GT 635M
+ID: 0DE4, Device: GeForce GT 520
+ID: 0DE5, Device: GeForce GT 530
+ID: 0DE7, Device: GeForce GT 610
+ID: 0DE8, Device: GeForce GT 620M
+ID: 0DE9, Device: GeForce GT 620M/630M/635M/640M LE
+ID: 0DD2, Device: GeForce GT 445M
+ID: 0DD3, Device: GeForce GT 435M
+ID: 0DD6, Device: GeForce GT 550M
+ID: 0DD8, Device: GeForce GT 440
+ID: 0DE1, Device: GeForce GT 430
+ID: 0D9C, Device: GeForce GT 440
+ID: 0DC4, Device: GeForce GTS 450
+ID: 0DC5, Device: GeForce GTS 450 OEM
+ID: 0DC6, Device: GeForce GTS 450 OEM
+ID: 0DCD, Device: GeForce GT 555M
+ID: 0DCE, Device: GeForce GT 555M
+ID: 0DD1, Device: GeForce GTX 460M
+ID: 0D80, Device: GeForce GTS 260M
+ID: 0CA9, Device: GeForce GTS 250M
+ID: 0CAC, Device: GeForce GT 220/315
+ID: 0CAF, Device: GeForce GT 335M
+ID: 0CB0, Device: GeForce GTS 350M
+ID: 0CB1, Device: GeForce GTS 360M
+ID: 0CBC, Device: GeForce GT 330
+ID: 0CA2, Device: GeForce GT 320
+ID: 0CA3, Device: GeForce GT 240
+ID: 0CA4, Device: GeForce GT 340
+ID: 0CA5, Device: GeForce GT 220
+ID: 0CA7, Device: GeForce GT 330
+ID: 0BE3, Device: GeForce 310M
+ID: 0A76, Device: GeForce 315M
+ID: 0A7B, Device: GeForce 505
+ID: 0A7C, Device: GeForce 305M
+ID: 0A6F, Device: GeForce 310M
+ID: 0A71, Device: GeForce 305M
+ID: 0A72, Device: GeForce 310M
+ID: 0A73, Device: GeForce 305M
+ID: 0A74, Device: GeForce G210M
+ID: 0A65, Device: GeForce 210
+ID: 0A66, Device: GeForce 310
+ID: 0A67, Device: GeForce 315
+ID: 0A68, Device: GeForce G 105M
+ID: 0A69, Device: GeForce G 105M
+ID: 0A6A, Device: GeForce GT 240M
+ID: 0A35, Device: GeForce GT 325M
+ID: 0A38, Device: GeForce G210
+ID: 0A62, Device: GeForce 205
+ID: 0A63, Device: GeForce 310
+ID: 0A64, Device: GeForce GT 230M
+ID: 0A29, Device: GeForce GT 330M
+ID: 0A2A, Device: GeForce GT 230M
+ID: 0A2B, Device: GeForce GT 330M
+ID: 0A2C, Device: GeForce GT 320M
+ID: 0A30, Device: GeForce 505
+ID: 0A32, Device: GeForce GT 415
+ID: 08A5, Device: GeForce 320M
+ID: 0A20, Device: GeForce GT 220
+ID: 0A21, Device: GeForce GT 330M
+ID: 0A22, Device: GeForce 315
+ID: 0A23, Device: GeForce 210
+ID: 0A26, Device: GeForce 405
+ID: 0A27, Device: GeForce 405
+ID: 0A24, Device: GeForce 405
+ID: 087A, Device: GeForce 9400
+ID: 087D, Device: GeForce 320M
+ID: 08A2, Device: GeForce 320M
+ID: 08A3, Device: GeForce 320M
+ID: 08A4, Device: GeForce 320M
+ID: 086E, Device: GeForce 9100M G
+ID: 086F, Device: GeForce 8200M G
+ID: 0870, Device: GeForce 9400M
+ID: 0871, Device: GeForce 9200
+ID: 0872, Device: GeForce G102M
+ID: 0873, Device: GeForce G102M
+ID: 0874, Device: GeForce 9400M / ION
+ID: 0866, Device: GeForce 9400M G
+ID: 0867, Device: GeForce 9400
+ID: 0868, Device: GeForce 9400
+ID: 086A, Device: GeForce 9400
+ID: 086C, Device: GeForce 9300 / nForce 730i
+ID: 086D, Device: GeForce 9200
+ID: 084D, Device: GeForce 8100 / nForce 720a
+ID: 0860, Device: GeForce 9300
+ID: 0861, Device: GeForce 9400
+ID: 0862, Device: GeForce 9400M G
+ID: 0863, Device: GeForce 9400M
+ID: 0864, Device: GeForce 9300
+ID: 0865, Device: GeForce 9300 / ION
+ID: 0845, Device: GeForce 8200M G
+ID: 0846, Device: GeForce 9200
+ID: 0847, Device: GeForce 9100
+ID: 0848, Device: GeForce 8300
+ID: 0849, Device: GeForce 8200
+ID: 084A, Device: GeForce 8200
+ID: 084C, Device: GeForce 7100 / nForce 620i
+ID: 07F0, Device: GeForce 8200M
+ID: 0844, Device: GeForce 9100M G
+ID: 07DC, Device: GeForce 7150 / nForce 630i
+ID: 07E1, Device: GeForce 7100 / nForce 630i
+ID: 07E2, Device: GeForce 7050 / nForce 630i
+ID: 07E3, Device: GeForce 7050 / nForce 610i
