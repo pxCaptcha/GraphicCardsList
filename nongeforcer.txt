@@ -1,0 +1,299 @@
+ID: 28B8, Device: RTX 2000 Ada Generation Laptop GPU
+ID: 28E0, Device: RTX 3000 Ada Generation Laptop GPU
+ID: 2860, Device: RTX 4000 SFF Ada Generation
+ID: 27B7, Device: L16
+ID: 27B8, Device: L4
+ID: 27BA, Device: RTX 4000 Ada Generation Laptop GPU
+ID: 27BB, Device: RTX 3500 Ada Generation Laptop GPU
+ID: 27E0, Device: L40 CNX
+ID: 2704, Device: RTX 5000 Ada Generation Laptop GPU
+ID: 2757, Device: AC AD104 20GB
+ID: 2786, Device: RTX A2000 Embedded GPU
+ID: 25FB, Device: RTX A500 Embedded GPU
+ID: 2681, Device: RTX TITAN Ada
+ID: 2684, Device: RTX 6000 Ada Generation
+ID: 26B2, Device: RTX 5000 Ada Generation
+ID: 26B5, Device: L40
+ID: 26B8, Device: L40G
+ID: 25E0, Device: RTX A1000 Embedded GPU
+ID: 25EC, Device: RTX A500 Laptop GPU
+ID: 25B9, Device: RTX A1000 Laptop GPU
+ID: 25BA, Device: RTX A2000 8GB Laptop GPU
+ID: 25BC, Device: RTX A1000 6GB Laptop GPU
+ID: 25BD, Device: RTX A500 Laptop GPU
+ID: 25B5, Device: RTX A4 Mobile
+ID: 25B8, Device: RTX A2000 Mobile
+ID: 25B6, Device: A2 / A16
+ID: 25AB, Device: RTX A2000
+ID: 2571, Device: RTX A2000 12GB
+ID: 2544, Device: Geforce RTX 3050
+ID: 2509, Device: Geforce RTX 3070 Ti Laptop GPU
+ID: 24FA, Device: RTX A4500 Embedded GPU
+ID: 24DF, Device: RTX A3000 Mobile
+ID: 24B9, Device: RTX A3000 12GB Laptop GPU
+ID: 24BA, Device: RTX A4500 Laptop GPU
+ID: 24BB, Device: RTX A3000 Laptop GPU
+ID: 24C7, Device: RTX A4000
+ID: 24B6, Device: RTX A5000 Mobile
+ID: 24B7, Device: RTX A4000 Mobile
+ID: 24B1, Device: RTX A4000H
+ID: 24AD, Device: Geforce RTX 3070 Ti Laptop GPU
+ID: 24A4, Device: CMP 70HX
+ID: 249F, Device: RTX A5500 Laptop GPU
+ID: 233D, Device: H100 96GB
+ID: 2342, Device: GH200 120GB
+ID: 2343, Device: GH200 480GB
+ID: 2420, Device: H100
+ID: 2324, Device: H800
+ID: 2330, Device: H100 SXM5 80GB
+ID: 2331, Device: H100 PCIe
+ID: 2337, Device: H100 SXM5 64GB
+ID: 2339, Device: H100 SXM5 94GB
+ID: 233A, Device: H800L 94GB
+ID: 228E, Device: H100 CNX
+ID: 2322, Device: H800 PCIe
+ID: 2321, Device: H100L 94GB
+ID: 2296, Device: RTX A4500
+ID: 2233, Device: RTX A5500
+ID: 2238, Device: A10M
+ID: 2235, Device: A40
+ID: 223F, Device: A10
+ID: 2237, Device: A10G
+ID: 220A, Device: RTX A6000
+ID: 220D, Device: CMP 90HX
+ID: 2216, Device: RTX A5000
+ID: 2207, Device: CMP 30HX
+ID: 2182, Device: A100 PCIe 40GB
+ID: 20F2, Device: A100-PG506-217
+ID: 20F3, Device: A800-SXM4-80GB
+ID: 20F5, Device: A800 80GB PCIe
+ID: 20F6, Device: A800 40GB PCIe
+ID: 20FD, Device: AX800 Converged Accelerator
+ID: 20FE, Device: GRID A100A
+ID: 20BF, Device: GRID A100B
+ID: 20F0, Device: A100-PG506-207
+ID: 20C0, Device: DRIVE A100 PROD
+ID: 20C2, Device: CMP 170HX
+ID: 20B8, Device: A100X
+ID: 20B9, Device: A30X
+ID: 20B4, Device: A100 PCIe 80GB
+ID: 20B6, Device: PG506-232
+ID: 20B7, Device: A30 PCIe
+ID: 20B0, Device: A100 SXM4 40GB
+ID: 2082, Device: CMP 170HX
+ID: 20B3, Device: A100-SXM-64GB
+ID: 2081, Device: A100 PCIe 40GB
+ID: 20B2, Device: A100 SXM4 80GB
+ID: 1FBF, Device: T1000 8GB
+ID: 1FF2, Device: T400 4GB
+ID: 2080, Device: Quadro T1000 Mobile
+ID: 1FDD, Device: Quadro T2000 Mobile / Max-Q
+ID: 1FB9, Device: Quadro T1000 Mobile
+ID: 1FB6, Device: T600 Laptop GPU
+ID: 1FB7, Device: T550 Laptop GPU
+ID: 1FBC, Device: T1200 Laptop GPU
+ID: 1FBB, Device: Quadro T500 Mobile
+ID: 1FBA, Device: T600 Mobile
+ID: 1FAE, Device: Quadro T1000 Mobile
+ID: 1FB1, Device: T600
+ID: 1FB2, Device: Quadro T400 Mobile
+ID: 1F99, Device: Quadro RTX 3000 Mobile Refresh
+ID: 1F36, Device: Quadro RTX 3000 Mobile / Max-Q
+ID: 1F42, Device: CMP 40HX
+ID: 1F06, Device: Quadro RTX 5000 Mobile Refresh
+ID: 1EB8, Device: Tesla T4
+ID: 1EB9, Device: PG189 SKU600
+ID: 1EAB, Device: Quadro RTX 5000
+ID: 1EB1, Device: Quadro RTX 4000
+ID: 1EB5, Device: Quadro RTX 5000 Mobile / Max-Q
+ID: 1EB6, Device: Quadro RTX 4000 Mobile / Max-Q
+ID: 1EB4, Device: T4G
+ID: 1E84, Device: Tesla T10 16GB / GRID RTX T10-2/T10-4/T10-8
+ID: 1E38, Device: Tesla T40 24GB
+ID: 1E3C, Device: Quadro RTX 6000/8000
+ID: 1E81, Device: Quadro RTX 6000/8000
+ID: 1E36, Device: Quadro RTX 6000
+ID: 1E09, Device: CMP 50HX
+ID: 1DF0, Device: Tesla PG500-216
+ID: 1DF2, Device: Tesla PG503-216
+ID: 1DF5, Device: Tesla V100 SXM2 16GB
+ID: 1DF6, Device: Tesla V100S PCIe 32GB
+ID: 1E02, Device: TITAN RTX
+ID: 1E03, Device: Tesla V100 PCIe 16GB
+ID: 1DB5, Device: Tesla V100 SXM2 32GB
+ID: 1DB6, Device: Tesla V100 PCIe 32GB
+ID: 1DB7, Device: Tesla V100 DGXS 32GB
+ID: 1DB8, Device: Tesla V100 SXM3 32GB
+ID: 1DBA, Device: Quadro GV100
+ID: 1DBE, Device: Quadro P520
+ID: 1D52, Device: TITAN V
+ID: 1DB1, Device: Tesla V100 SXM2 16GB
+ID: 1DB2, Device: Tesla V100 DGXS 16GB
+ID: 1DB3, Device: Tesla V100 FHHL 16GB
+ID: 1D10, Device: Quadro P500 Mobile
+ID: 1CBC, Device: Quadro P600 Mobile
+ID: 1CBD, Device: Quadro P620
+ID: 1CCC, Device: Quadro P2000
+ID: 1CFB, Device: Quadro P1000
+ID: 1D01, Device: Quadro P620
+ID: 1CBA, Device: Quadro P2000 Mobile
+ID: 1CBB, Device: Quadro P1000 Mobile
+ID: 1CB1, Device: Quadro P1000
+ID: 1CB2, Device: Quadro P600
+ID: 1CB3, Device: Quadro P400
+ID: 1C92, Device: P106M
+ID: 1C21, Device: Quadro P2000
+ID: 1C31, Device: Quadro P2200
+ID: 1C35, Device: Quadro P2000 Mobile
+ID: 1C03, Device: P106-100
+ID: 1C09, Device: P106-090
+ID: 1C20, Device: P104-101
+ID: 1BE0, Device: Quadro P5200 Mobile
+ID: 1BB6, Device: Quadro P5000 Mobile
+ID: 1BB7, Device: Quadro P4000 Mobile
+ID: 1BB8, Device: Quadro P3000 Mobile
+ID: 1BB9, Device: Quadro P4200 Mobile
+ID: 1BBB, Device: Quadro P3200 Mobile
+ID: 1BAA, Device: Quadro P5000
+ID: 1BB1, Device: Quadro P4000
+ID: 1BB3, Device: Tesla P4
+ID: 1BB4, Device: Tesla P6
+ID: 1B83, Device: P104-100
+ID: 1BA0, Device: Tesla P10
+ID: 1B02, Device: TITAN Xp
+ID: 1B04, Device: P102-100
+ID: 1B30, Device: Quadro P6000
+ID: 1B38, Device: Tesla P40
+ID: 1AF1, Device: A100 NVSwitch
+ID: 1ADB, Device: TITAN X
+ID: 1B01, Device: Quadro M6000
+ID: 17F1, Device: Quadro M6000 24GB
+ID: 17FD, Device: Tesla M40
+ID: 1AD0, Device: GRID M3-3020
+ID: 179C, Device: Tesla P100 SXM2 16GB
+ID: 1617, Device: Quadro M2000
+ID: 1431, Device: Tesla M4
+ID: 1436, Device: Quadro M2200 Mobile
+ID: 15F0, Device: Quadro GP100
+ID: 15F1, Device: Tesla P100 PCIe 12GB
+ID: 15F8, Device: Tesla P100 PCIe 16GB
+ID: 13FB, Device: Quadro M5500
+ID: 1401, Device: Quadro M4000
+ID: 13F2, Device: Tesla M60
+ID: 13F3, Device: Tesla M6
+ID: 13F8, Device: Quadro M5000M / M5000 SE
+ID: 13F9, Device: Quadro M4000M
+ID: 13FA, Device: Quadro M3000M
+ID: 13C3, Device: Quadro M5000
+ID: 13BA, Device: Quadro K2200
+ID: 13BB, Device: Quadro K620
+ID: 13BC, Device: Quadro K1200
+ID: 13BD, Device: Tesla M10
+ID: 13C0, Device: Quadro M1000M
+ID: 13B2, Device: Quadro M600M
+ID: 13B3, Device: Quadro K2200M
+ID: 13B4, Device: Quadro M620 Mobile
+ID: 13B6, Device: Quadro M1200 Mobile
+ID: 13B9, Device: NVS 810
+ID: 1398, Device: Quadro M2000M
+ID: 1381, Device: GRID M30
+ID: 1390, Device: Quadro K620M / Quadro M500M
+ID: 137B, Device: Quadro M520 Mobile
+ID: 137D, Device: Quadro K610M
+ID: 12BA, Device: Quadro K510M
+ID: 1340, Device: Quadro K4000
+ID: 11FC, Device: Quadro K2100M
+ID: 11C7, Device: Quadro K3000M
+ID: 11BF, Device: GRID K2
+ID: 11C0, Device: Quadro K5000
+ID: 11BB, Device: Quadro 4100
+ID: 11BC, Device: Quadro K5000M
+ID: 11BD, Device: Quadro K4000M
+ID: 11B0, Device: GRID K240Q / K260Q vGPU
+ID: 11B1, Device: GRID K2 Tesla USM
+ID: 11B4, Device: Quadro K4200
+ID: 11B6, Device: Quadro K3100M
+ID: 11B7, Device: Quadro K4100M
+ID: 11B8, Device: Quadro K5100M
+ID: 11B9, Device: GRID IceCube
+ID: 11A8, Device: Quadro K5100M
+ID: 119F, Device: Tesla K10
+ID: 1191, Device: Tesla K8
+ID: 1195, Device: GRID K520
+ID: 118B, Device: GRID K2 NVS USM
+ID: 118D, Device: GRID K200 vGPU
+ID: 118E, Device: NVS 300
+ID: 10EF, Device: Tesla C2090
+ID: 1091, Device: Tesla M2090
+ID: 1094, Device: Tesla M2075
+ID: 1096, Device: Tesla C2050 / C2075
+ID: 109A, Device: Quadro 5010M
+ID: 109B, Device: Quadro 7000
+ID: 10C0, Device: NVS 315
+ID: 107D, Device: NVS 310
+ID: 1080, Device: NVS 4200M
+ID: 1057, Device: Quadro NVS 4200M
+ID: 1058, Device: Tesla Stella SXM
+ID: 1040, Device: Tesla K40s
+ID: 102A, Device: Tesla K40t
+ID: 102D, Device: Tesla K80
+ID: 102E, Device: Tesla K40d
+ID: 102F, Device: Tesla Stella Solo
+ID: 103A, Device: Quadro K6000
+ID: 103C, Device: Quadro K5200
+ID: 1022, Device: Tesla K20c
+ID: 1023, Device: Tesla K40m
+ID: 1024, Device: Tesla K40c
+ID: 1026, Device: Tesla K20s
+ID: 1027, Device: Tesla K40st
+ID: 1028, Device: Tesla K20m
+ID: 100C, Device: Tesla K20X
+ID: 101F, Device: Tesla K20
+ID: 1020, Device: Tesla K20X
+ID: 1021, Device: Tesla K20Xm
+ID: 0FFF, Device: Quadro 410
+ID: 1001, Device: Quadro K500M
+ID: 0FF9, Device: Quadro K2000D
+ID: 0FFA, Device: Quadro K600
+ID: 0FFB, Device: Quadro K2000M
+ID: 0FFC, Device: Quadro K1000M
+ID: 0FFD, Device: NVS 510
+ID: 0FFE, Device: Quadro K2000
+ID: 0FF1, Device: NVS 1000
+ID: 0FF2, Device: GRID K1
+ID: 0FF3, Device: Quadro K420
+ID: 0FF5, Device: GRID K1 Tesla USM
+ID: 0FF6, Device: Quadro K1100M
+ID: 0FF7, Device: GRID K140Q vGPU
+ID: 0FEA, Device: GRID K340
+ID: 0FE3, Device: GRID K1 NVS USM
+ID: 0FE7, Device: GRID K100 vGPU
+ID: 0FE8, Device: N14P-GS
+ID: 0FE9, Device: Quadro 3000M
+ID: 0E3B, Device: Quadro 4000M
+ID: 0E0C, Device: Quadro 600
+ID: 0DF9, Device: Quadro 500M
+ID: 0DFA, Device: Quadro 1000M
+ID: 0DFC, Device: NVS 5200M
+ID: 0E08, Device: NVS 5400M
+ID: 0DF0, Device: Quadro 2000
+ID: 0DDA, Device: Quadro 2000M
+ID: 0DE0, Device: Quadro FX 1800M
+ID: 0BF0, Device: ION 2
+ID: 0A78, Device: Quadro FX 380 LP
+ID: 0A7A, Device: Quadro FX 380M
+ID: 0A80, Device: ION
+ID: 0A70, Device: NVS 2100M
+ID: 0A6C, Device: NVS 3100M
+ID: 0A34, Device: Quadro 400
+ID: 0A3C, Device: Quadro FX 880M
+ID: 0A60, Device: ION
+ID: 0A28, Device: NVS 5100M
+ID: 0A2D, Device: ION
+ID: 087E, Device: ION LE
+ID: 087F, Device: ION LE
+ID: 08A0, Device: ION
+ID: 0876, Device: nForce 760i SLI
+ID: 0869, Device: nForce 750a SLI
+ID: 084F, Device: nForce 730a
+ID: 084B, Device: nForce 780a/980a SLI
