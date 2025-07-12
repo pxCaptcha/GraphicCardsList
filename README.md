@@ -10,4 +10,4 @@ If you want to use this GPU list, make sure you enter both the ID and the string
 For help with this/anti bot apis: <br>
 <a href="https://discord.gg/parallaxapis">Join now.</a>
 
-Goodnight kiss if you ⭐ and if you need more help feel free to contact me on discord pxCaptcha or on Twitter [@pxCaptcha](https://twitter.com/pxCaptcha)
+if you need more help feel free to contact me on discord pxCaptcha or on Twitter [@pxCaptcha](https://twitter.com/pxCaptcha)
